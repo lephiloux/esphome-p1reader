@@ -23,7 +23,7 @@
 //-------------------------------------------------------------------------------------
 
 #include "p1reader.h"
-
+#define byte uint8_t
 namespace esphome
 {
     namespace p1_reader
