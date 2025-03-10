@@ -6,7 +6,7 @@ from esphome.const import (
     CONF_UART_ID, CONF_ID
 )
 
-CODEOWNERS = ["cadwal"]
+CODEOWNERS = ["lephiloux"]
 
 MULTI_CONF = True
 
